@@ -1,6 +1,6 @@
 # How to Clear Cache on Mac?
 
-[![how to clear cache on mac](redd.png)](https://github.com/tech-solve/how.to.clear.cache.on.mac)
+[![how to clear cache on mac](redd.png)](https://icncomputer.com/how-to-clear-cache-on-mac/)
 
 **There are two ways you can clear cache on your Mac computer:**
 
